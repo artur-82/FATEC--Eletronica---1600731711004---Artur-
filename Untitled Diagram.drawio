@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T15:14:30.172Z" agent="5.0 (Windows)" etag="5noiLOBFTUWjxY-a3Kbp" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T15:18:03.040Z" agent="5.0 (Windows)" etag="N8MProBnGCAhet2lbldS" version="13.6.5" type="github">
   <diagram id="AKFp9x0IBh2-5NKwpCKr" name="Page-1">
     <mxGraphModel dx="856" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="G0h0YU3dxmo6zqzjJFRH-36" value="3000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="G0h0YU3dxmo6zqzjJFRH-33">
           <mxGeometry x="165" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G0h0YU3dxmo6zqzjJFRH-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="G0h0YU3dxmo6zqzjJFRH-33">
+        <mxCell id="G0h0YU3dxmo6zqzjJFRH-37" value="3000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="G0h0YU3dxmo6zqzjJFRH-33">
           <mxGeometry x="248" width="82" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G0h0YU3dxmo6zqzjJFRH-39" value="TESTE DE MESA" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
